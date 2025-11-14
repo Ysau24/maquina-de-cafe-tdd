@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\MaquinaDeCafe\MaquinaDeCafe\bin\Debug\MaquinaDeCafe.dll
+C:\Users\Dell\source\repos\MaquinaDeCafe\MaquinaDeCafe\bin\Debug\MaquinaDeCafe.pdb
+C:\Users\Dell\source\repos\MaquinaDeCafe\MaquinaDeCafe\obj\Debug\MaquinaDeCafe.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MaquinaDeCafe\MaquinaDeCafe\obj\Debug\MaquinaDeCafe.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MaquinaDeCafe\MaquinaDeCafe\obj\Debug\MaquinaDeCafe.dll
+C:\Users\Dell\source\repos\MaquinaDeCafe\MaquinaDeCafe\obj\Debug\MaquinaDeCafe.pdb

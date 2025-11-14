@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+        "projectName": "MaquinaDeCafe.Tests",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\MaquinaDeCafe.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\MaquinaDeCafe.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\MaquinaDeCafe.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\MaquinaDeCafe.csproj",
+        "projectName": "MaquinaDeCafe",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\MaquinaDeCafe.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

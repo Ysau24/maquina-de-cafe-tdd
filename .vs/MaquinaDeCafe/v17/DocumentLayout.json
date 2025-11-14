@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|c:\\users\\dell\\source\\repos\\maquinadecafe\\maquinadecafe.tests\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|solutionrelative:maquinadecafe.tests\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|c:\\users\\dell\\source\\repos\\maquinadecafe\\maquinadecafe.tests\\testmaquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|solutionrelative:maquinadecafe.tests\\testmaquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|c:\\users\\dell\\source\\repos\\maquinadecafe\\maquinadecafe.tests\\testcafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|solutionrelative:maquinadecafe.tests\\testcafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|c:\\users\\dell\\source\\repos\\maquinadecafe\\maquinadecafe.tests\\testazucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|solutionrelative:maquinadecafe.tests\\testazucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\maquinadecafe\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|solutionrelative:maquinadecafe\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\maquinadecafe\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|solutionrelative:maquinadecafe\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\maquinadecafe\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|solutionrelative:maquinadecafe\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\maquinadecafe\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5259AAA4-41EA-4758-AF73-EB209FC9F687}|MaquinaDeCafe\\MaquinaDeCafe.csproj|solutionrelative:maquinadecafe\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|c:\\users\\dell\\source\\repos\\maquinadecafe\\maquinadecafe.tests\\maquinadecafe.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|solutionrelative:maquinadecafe.tests\\maquinadecafe.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|c:\\users\\dell\\source\\repos\\maquinadecafe\\maquinadecafe.tests\\maquinadecafe.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{085B8F23-BDD1-491C-B920-79F45DCF9FBD}|MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj|solutionrelative:maquinadecafe.tests\\maquinadecafe.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestMaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestMaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe.Tests\\TestMaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestMaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaDeCafe.Tests\\TestMaquinaDeCafe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:07:28.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cafetera.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\Cafetera.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe\\Cafetera.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\Cafetera.cs",
+              "RelativeToolTip": "MaquinaDeCafe\\Cafetera.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:04:18.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\MaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe\\MaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\MaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaDeCafe\\MaquinaDeCafe.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:04:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vaso.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\Vaso.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe\\Vaso.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\Vaso.cs",
+              "RelativeToolTip": "MaquinaDeCafe\\Vaso.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:04:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestAzucarero.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestAzucarero.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe.Tests\\TestAzucarero.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestAzucarero.cs",
+              "RelativeToolTip": "MaquinaDeCafe.Tests\\TestAzucarero.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:06:54.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestCafetera.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestCafetera.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe.Tests\\TestCafetera.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestCafetera.cs",
+              "RelativeToolTip": "MaquinaDeCafe.Tests\\TestCafetera.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:06:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestVaso.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestVaso.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe.Tests\\TestVaso.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\TestVaso.cs",
+              "RelativeToolTip": "MaquinaDeCafe.Tests\\TestVaso.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:06:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Azucarero.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\Azucarero.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafe\\Azucarero.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe\\Azucarero.cs",
+              "RelativeToolTip": "MaquinaDeCafe\\Azucarero.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T03:04:34.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaquinaDeCafe.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "RelativeDocumentMoniker": "MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "RelativeToolTip": "MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T03:03:19.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaquinaDeCafe.Tests",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "RelativeDocumentMoniker": "MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "RelativeToolTip": "MaquinaDeCafe.Tests\\MaquinaDeCafe.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T03:22:12.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
